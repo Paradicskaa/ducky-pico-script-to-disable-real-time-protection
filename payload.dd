@@ -3,7 +3,7 @@ CTRL ESC
 REM to esc explorer
 
 DELAY 900
-STRING Vírusok és veszélyforrások elleni védelem
+STRING Virus & threat protection
 DELAY 500
 ENTER
 
